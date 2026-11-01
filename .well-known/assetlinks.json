@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.sedapa2010k.bestbowling",
+    "sha256_cert_fingerprints": ["3F:D5:AF:CE:31:FD:62:45:F3:12:88:A1:DF:D6:98:EA:95:F0:02:A5:84:26:25:1E:B7:C7:7B:14:17:19:45:4B"]
+  }
+}]
