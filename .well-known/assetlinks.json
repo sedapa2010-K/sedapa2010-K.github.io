@@ -3,6 +3,9 @@
   "target": {
     "namespace": "android_app",
     "package_name": "io.github.sedapa2010k.bestbowling",
-    "sha256_cert_fingerprints": ["3F:D5:AF:CE:31:FD:62:45:F3:12:88:A1:DF:D6:98:EA:95:F0:02:A5:84:26:25:1E:B7:C7:7B:14:17:19:45:4B"]
+    "sha256_cert_fingerprints": [
+      "3F:D5:AF:CE:31:FD:62:45:F3:12:88:A1:DF:D6:98:EA:95:F0:02:A5:84:26:25:1E:B7:C7:7B:14:17:19:45:4B",
+      "3D:85:BD:D3:D6:2D:D3:E0:6A:27:FC:BE:B0:AC:86:8B:86:37:17:AE:25:B0:C6:56:D8:3B:96:95:C8:E1:55:B0"
+    ]
   }
 }]
